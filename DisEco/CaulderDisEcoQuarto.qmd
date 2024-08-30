@@ -1,0 +1,29 @@
+---
+title: "MC_DisEco_Fall2024"
+author: "Mikailie Caulder"
+format: html
+editor: visual
+---
+
+**8/28/2024**
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![The image above is the epidemiological triad. The epidemiological triad is used to show the 3 main factors that influence disease spread and control. The 3 factors demonstrated in the figure above are host, environment, and pathogen. However, host-pathogen systems are more complex than this triangle represents. There can be multiple hosts, multiple pathogens, or a differing environment which all will impact the spread and control of disease, ](images/clipboard-2246306219.png)
+
+------------------------------------------------------------------------
