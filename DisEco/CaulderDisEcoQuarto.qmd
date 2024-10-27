@@ -131,3 +131,31 @@ Though disease models are powerful tools, they must be interpreted cautiously du
 Ecological complexity is another significant limitation seen in the development of disease models. Ecosystems are dynamic and complicated with many intertwined components such as species, habitat conditions, and climate which all affect the dynamics of disease. Simplification of intricate relationships is required to construct manageable models but can decrease their ability to fully capture the range of ecological interactions. Predator-prey dynamics, seasonal migration patterns, and changes in habitat or climate may all influence the spread of disease in ways that are not accounted for in models due to their required simplicity. While the simplification allows for the focus to be on key variables, it omits ecological factors that may significantly impact disease and disease outcomes. 
 
 To overcome these necessary limitations, disease models should be used simultaneously with other tools and approaches such as adaptive management, which uses ongoing data collection and various model refinements. Through the evolution of new data from surveillance and field research, models can be updated and improved to represent trends, creating more reliable predictions. The process ensures that management strategies stay responsive to changing conditions and new information. The additional collaboration with experts such as ecologists, epidemiologists, and wildlife biologists can ensure that the models account for broader factor ranges and reflect a comprehensive and well-rounded understanding of the ecosystem.
+
+------------------------------------------------------------------------
+
+Worksheet 5:
+
+Fecal Lab
+
+For the Fecal Floatation Lab, we examined feces from a dairy cow. We began by measuring 2g of feces and placing it in a cup with 13 mL of water to suspend it. After thoroughly mixing, we transfered the solution to a tube and vortexed to ensure everything was thoroughly mixed. Between each vortex, we pipetted off the top portion, which was combine with a fecal floatation solution (either salt or sugar, not sure which one we used) to make the parasite eggs float. After mixing in the solution, we pipetted it onto a miscroscope slide and waited 5 minutes for the eggs to rise to the top.
+
+Under the microscope, we examined out sample thoroughly but did not find any eggs. Fortunately, another group's slide had visible eggs for everyone to see!
+
+------------------------------------------------------------------------
+
+Exam 1 - Question 11 Redo
+
+Ro is the average number of new cases per infected individual in a FULLY SUSCEPTIBLE population.
+
+-   Ro is not an indicator of disease severity or pathogenecity
+
+-   It is specific for populations, not pathogens
+
+-   Ro = contact rate/recovery rate
+
+For scenario 1, Ro=10/5=2
+
+For scenario 2, Ro=10/5=2
+
+In both scenario 1 and 2, the Ro is 2. This value tells us that on average, each infected individual in the population will transmit the disease to 2 new individuals. The Ro helps us predict the potential spread of the disease and the number of individuals that could be infected from 1 initial case. However, while the Ro=2 is the average, it does not mean that each infected individual will actually infect 2 susceptible individuals. As we see in Scenario 2, there is a great deal of variability in how many susceptible individuals each infected person encounters. For example, person 4 encountered 3 susceptible individuals and potentially infects them, while person 5 encounters none, and therefore does not pass the disease. This reflects the real-world dynamics of disease transmission variability where chance, contact rates, and other outside factors impact the system. This shows that Ro is useful for understanding the general spread of an infection, but does not account for hereogenity in the population.
