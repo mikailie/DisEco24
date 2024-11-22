@@ -166,3 +166,121 @@ Worksheet 6 : Marburg Virus Outbreak
 
 1.  Using the community epidemiological framework, I think the Marburg virus outbreak is a spillover event. The spillover event occurred when the initial patient visited the cave and contracted the pathogen from the reservoir host. Though this is also the first step in an emerging zoonotic disease, the sustained human-to-human transmission points more towards a spillover. Because of the human-to-human transmission particularly within the healthcare setting, this can be attributed to an expansion of the spillover event rather than an emerging infectious disease.
 2.  To prevent the risk of transmission in community settings education about the disease, specifically for visitors who might be visiting bat habitat is crucial. Education should focus on the risks of Marburg Virus, how it spreads, and the importance of avoiding contact with bats and bat-contaminated areas. For hospitals, proper PPE along with specific infection control protocols are essential. Isolation/quarantine for infected individuals might also be used to further prevent the spread.
+
+------------------------------------------------------------------------
+
+Worksheet 7, 8, 9
+
+The data set is from a real study in which raccoons were examined for the roundworm (*Baylisascaris procyonis)*. Necropsies of 106 raccoons in Arkansas and Missouri between 2013 and 2014 were used for this data. These roundworms are found within the intestines of the raccoons, who are the definitive host. Adult worms lay eggs that pass in the raccoon's feces and can potentially infect other raccoons, or even accidental hosts such as humans. For hosts that are not raccoons, the larvae has the potential to migrate and cause damage to alternative tissues and the nervous system, ultimately resulting in mortality.
+
+The evaluation of this data is crucial for the understanding of ecological risk for alternative hosts. The data collection included the region in which the raccoon was captured (North, South, and Central), sex of the animal (male, female), age (adult, young adult), and the number of roundworms found.
+
+To start my analysis, I took the provided data and divided into the following categories, creating a separate document for each.
+
+-   Female
+
+-   Male
+
+-   Young Adult
+
+-   Adult
+
+-   North
+
+-   South
+
+-   Central
+
+I started by analysis by selecting each data set separately and performing the Sterne's method calculation.
+
+For the female population:
+
+-   Number Infected: 24/37
+
+-   Prevalence: 0.649
+
+-   Confidence intervals (0.486, 0.786)
+
+For the male population:
+
+-   number infected: 26/69
+
+-   prevalence: 0.377
+
+-   Confidence intervals (0.267, 0.500)
+
+As we can see from the numbers above, females had a prevalence that was significantly higher than those of males. This suggests a potential biological difference that could make female raccoons more likely to become infected than males.
+
+![](images/Screenshot%202024-11-22%20at%2011.13.17%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.13.43%20AM.png)
+
+For the adult raccoon population
+
+-   number infected: 36/69
+
+-   prevalence: 0.522
+
+-   Confidence intervals: (0.404, 0.638)
+
+For the young adult population:
+
+-   number infected: 14/37
+
+-   prevalence: 0.378
+
+-   Confidence intervals: (0.234, 0.541)
+
+The age data shows that adults had a slightly higher prevalence than young adults. These statistics make sense as the adults will have more time to have ingested the infected eggs throughout the duration of their life.
+
+![](images/Screenshot%202024-11-22%20at%2011.13.32%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.00%20AM.png)
+
+For raccoons captured in the Northern region
+
+-   number infected: 14/49
+
+-   prevalence: 0.286
+
+-   Confidence intervals: (0.170, 0.428)
+
+For raccoons captured in the Central region
+
+-   number infected: 9/14
+
+-   prevalence: 0.643
+
+-   Confidence intervals: (0.371, 0.847)
+
+For raccoons captured in the Southern region
+
+-   number infected: 27/43
+
+-   prevalence: 0.628
+
+-   Confidence intervals: (0.477, 0.759)
+
+The data of location shows that raccoons in the central region had the highest prevalence, with the southern region not far behind. However, the northern region had a strikingly lower prevalence than the other two locations. This could potentially be the result of the pathogens ability to live in certain environmental conditions better than others.
+
+![](images/Screenshot%202024-11-22%20at%2011.14.21%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.42%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.31%20AM.png)
+
+I then went on to compare the data using Fisher's exact test
+
+![](images/Screenshot%202024-11-22%20at%2011.15.36%20AM.png)
+
+The P value for age does not show a significant difference since the p value is not less than 0.05.
+
+![](images/Screenshot%202024-11-22%20at%2011.16.01%20AM.png)
+
+The comparison of sex has a p value of 0.0087, which is within the limit to show a significant difference.
+
+![](images/Screenshot%202024-11-22%20at%2011.16.21%20AM.png)
+
+The location information also shows a significant difference with a p value less than 0.05.
+
+Overall, we can see that there is variability within region, sex, and age of the raccoons. From this data we can infer that the roundworms are primarily found in the central and southern regions, specifically in the female populations.
