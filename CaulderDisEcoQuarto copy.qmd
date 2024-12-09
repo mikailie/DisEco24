@@ -1,0 +1,271 @@
+---
+title: "MC_DisEco_Fall2024"
+author: "Mikailie Caulder"
+format: html
+editor: visual
+---
+
+**8/28/2024**
+
+![The Epidemiological Triad \| Download ...](data:image/png;base64,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){alt="The Epidemiological Triad | Download ..." width="515"}
+
+The image above is the epidemiological triad. The epidemiological triad is used to show the 3 main factors that influence disease spread and control. The 3 factors demonstrated in the figure above are host, environment, and pathogen. However, host-pathogen systems are more complex than this triangle represents. There can be multiple hosts, multiple pathogens, or a differing environmental pattern which all impact the spread and control of disease.
+
+------------------------------------------------------------------------
+
+**Worksheet 2 & 3**
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
+herd of 5000 deer. The desired level of confidence is 95%.
+
+-   **59 Deer**
+
+\
+2) Using the hypergeometric distribution, compare the sample size requirements for the\
+following scenarios:
+
+\
+a) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+-   **With a population of 8000 deer, to gain a 1% prevalence at 95% confidence, you need to sample 294 deer. As prevalence decreases, the sample size gets larger despite a lower confidence interval.**
+
+\
+b) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+-   **With a population of 8000 deer, to gain a 2% prevalence at 99% confidence, you need to sample 226 deer. As prevalence increases, the sample size gets smaller despite the increase in confidence.**
+
+\
+3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
+300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you\
+are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =,\
+\>) \_\_\_\_%.
+
+-   **\< 1%**
+
+\
+4) An outbreak of ‘Lame disease’ has been reported in wild turkey populations of\
+Alabama. Turkeys from three counties were sampled for lameness (Lee, Chambers and\
+Russell counties).
+
+\
+a) Analyze the sample data to determine prevalence of lameness in each county.\
+Provide confidence interval for prevalence using Sterne’s method.
+
+-   **Chambers prevalence: 8/30 = 0.2667 x 100 = 26.67% prevalence**
+
+    ![](Desktop/Untitled.png){width="634"}
+
+-   **Lee prevalence: 30/150 = 0.2 x 100 = 20% prevalence**
+
+    ![](Desktop/Untitled.png)
+
+-   **Russel prevalence: 3/96 = 0.03125 x 100 = 3.125% prevalence**
+
+    ![](Desktop/Untitled.png)
+
+\
+b) Compare prevalences using Fisher’s exact test
+
+![](Desktop/Untitled.png)
+
+**\^ Proves the prevalence statistics recorded in part A.**
+
+\
+5) Jane was studying the spread of Pink Spot Disease (PSD) in a pond that had 60 fish.\
+She introduced an infectious fish in the pond on day 0. Her observations are as follows:
+
+Day 1: 3 fish infected\
+Day 2: 4 fish infected\
+Day 3: 7 fish infected\
+Day 4: 11 fish infected\
+Day 5: 20 fish infected
+
+\
+Note that there is no disease-related mortality. The observations denote all infected fish\
+in the pond (including previously infected fish).\
+a) Find incidence on day 1, day 2 and day 5. Write the unit for incidence.
+
+-   **Day 1: 3/60 = 0.05 x 100 = 5 cases per 100 fish per day**
+
+-   **Day 3: 1/57 = 0.0175 x 100 = 1.75 cases per 100 fish per day**
+
+-   **Day 5: 9/49 = 0.1837 x 100 = 18.37 cases per 100 fish per day**
+
+\
+b) What is the prevalence of PSD on day 3 and day 5?
+
+-   **Day 3: 7/60 = 0.1167 x 100 = 11.67% prevalence**
+
+-   **Day 5: 20/60 = 0.3333 x 100 = 33.33% prevalence**
+
+\
+c) On which day is the prevalence same as the incidence (except the units)?
+
+-   **Day 1**
+
+------------------------------------------------------------------------
+
+**Worksheet 4:**
+
+Disease models are helpful tools for wildlife disease management by allowing us to develop forecasts, management plans, intervention evaluations, and more. These models allow researchers to simulate complex disease dynamics and provide essential insights into disease spread, associated mortality rates, and how wildlife populations might respond. The predictability of these models is especially useful for researchers seeking various intervention strategies such as vaccination programs, culling, or habitat modifications. Through the stimulation of different scenarios, models offer a cost-efficient way to explore possible outcomes without the need for expensive and time-consuming real-world experiences. 
+
+A significant advantage of disease models is their intervention effectiveness prediction capabilities. For example, models can be used to stimulate how rates of vaccination impact the spread of disease in a population or to determine the long-term effects of culling individuals with the infection. Models can assess potential outcomes of habitat changes, allowing researchers to better understand how environmental alterations could potentially influence disease characteristics or the overall health of the wildlife population. As a practical alternative, disease models bypass the need for direct experimentation, allowing researchers to explore various scenarios and make informed decisions based on the simulated outcomes. 
+
+Though disease models are powerful tools, they must be interpreted cautiously due to the prevalence of data uncertainty and inherent limitations. Wildlife disease models depend on accurate data about transmission rates, population size, and environmental factors. However, this data is often difficult to collect or may be incomplete and an estimated representation. Consequently, models built on estimates and assumptions may not fully reflect the reality of the impacts. Predictions generated by these models may be flawed, incomplete, or misleading. The limitation can hinder the effectiveness of disease modeling, particularly in wildlife populations where accurate and complete data collection can often be restricted by accessibility, logistical challenges, and financial burden. 
+
+Ecological complexity is another significant limitation seen in the development of disease models. Ecosystems are dynamic and complicated with many intertwined components such as species, habitat conditions, and climate which all affect the dynamics of disease. Simplification of intricate relationships is required to construct manageable models but can decrease their ability to fully capture the range of ecological interactions. Predator-prey dynamics, seasonal migration patterns, and changes in habitat or climate may all influence the spread of disease in ways that are not accounted for in models due to their required simplicity. While the simplification allows for the focus to be on key variables, it omits ecological factors that may significantly impact disease and disease outcomes. 
+
+To overcome these necessary limitations, disease models should be used simultaneously with other tools and approaches such as adaptive management, which uses ongoing data collection and various model refinements. Through the evolution of new data from surveillance and field research, models can be updated and improved to represent trends, creating more reliable predictions. The process ensures that management strategies stay responsive to changing conditions and new information. The additional collaboration with experts such as ecologists, epidemiologists, and wildlife biologists can ensure that the models account for broader factor ranges and reflect a comprehensive and well-rounded understanding of the ecosystem.
+
+------------------------------------------------------------------------
+
+**Worksheet 5:**
+
+Fecal Lab
+
+For the Fecal Floatation Lab, we examined feces from a dairy cow. We began by measuring 2g of feces and placing it in a cup with 13 mL of water to suspend it. After thoroughly mixing, we transfered the solution to a tube and vortexed to ensure everything was thoroughly mixed. Between each vortex, we pipetted off the top portion, which was combine with a fecal floatation solution (either salt or sugar, not sure which one we used) to make the parasite eggs float. After mixing in the solution, we pipetted it onto a miscroscope slide and waited 5 minutes for the eggs to rise to the top.
+
+Under the microscope, we examined out sample thoroughly but did not find any eggs. Fortunately, another group's slide had visible eggs for everyone to see!
+
+------------------------------------------------------------------------
+
+**Exam 1 - Question 11 Redo**
+
+Ro is the average number of new cases per infected individual in a FULLY SUSCEPTIBLE population.
+
+-   Ro is not an indicator of disease severity or pathogenecity
+
+-   It is specific for populations, not pathogens
+
+-   Ro = contact rate/recovery rate
+
+For scenario 1, Ro=10/5=2
+
+For scenario 2, Ro=10/5=2
+
+In both scenario 1 and 2, the Ro is 2. This value tells us that on average, each infected individual in the population will transmit the disease to 2 new individuals. The Ro helps us predict the potential spread of the disease and the number of individuals that could be infected from 1 initial case. However, while the Ro=2 is the average, it does not mean that each infected individual will actually infect 2 susceptible individuals. As we see in Scenario 2, there is a great deal of variability in how many susceptible individuals each infected person encounters. For example, person 4 encountered 3 susceptible individuals and potentially infects them, while person 5 encounters none, and therefore does not pass the disease. This reflects the real-world dynamics of disease transmission variability where chance, contact rates, and other outside factors impact the system. This shows that Ro is useful for understanding the general spread of an infection, but does not account for hereogenity in the population.
+
+------------------------------------------------------------------------
+
+**Worksheet 6 : Marburg Virus Outbreak**
+
+1.  Using the community epidemiological framework, I think the Marburg virus outbreak is a spillover event. The spillover event occurred when the initial patient visited the cave and contracted the pathogen from the reservoir host. Though this is also the first step in an emerging zoonotic disease, the sustained human-to-human transmission points more towards a spillover. Because of the human-to-human transmission particularly within the healthcare setting, this can be attributed to an expansion of the spillover event rather than an emerging infectious disease.
+2.  To prevent the risk of transmission in community settings education about the disease, specifically for visitors who might be visiting bat habitat is crucial. Education should focus on the risks of Marburg Virus, how it spreads, and the importance of avoiding contact with bats and bat-contaminated areas. For hospitals, proper PPE along with specific infection control protocols are essential. Isolation/quarantine for infected individuals might also be used to further prevent the spread.
+
+------------------------------------------------------------------------
+
+**Worksheet 7, 8, 9**
+
+The data set is from a real study in which raccoons were examined for the roundworm (*Baylisascaris procyonis)*. Necropsies of 106 raccoons in Arkansas and Missouri between 2013 and 2014 were used for this data. These roundworms are found within the intestines of the raccoons, who are the definitive host. Adult worms lay eggs that pass in the raccoon's feces and can potentially infect other raccoons, or even accidental hosts such as humans. For hosts that are not raccoons, the larvae has the potential to migrate and cause damage to alternative tissues and the nervous system, ultimately resulting in mortality.
+
+The evaluation of this data is crucial for the understanding of ecological risk for alternative hosts. The data collection included the region in which the raccoon was captured (North, South, and Central), sex of the animal (male, female), age (adult, young adult), and the number of roundworms found.
+
+To start my analysis, I took the provided data and divided into the following categories, creating a separate document for each.
+
+-   Female
+
+-   Male
+
+-   Young Adult
+
+-   Adult
+
+-   North
+
+-   South
+
+-   Central
+
+I started by analysis by selecting each data set separately and performing the Sterne's method calculation.
+
+For the female population:
+
+-   Number Infected: 24/37
+
+-   Prevalence: 0.649
+
+-   Confidence intervals (0.486, 0.786)
+
+For the male population:
+
+-   number infected: 26/69
+
+-   prevalence: 0.377
+
+-   Confidence intervals (0.267, 0.500)
+
+As we can see from the numbers above, females had a prevalence that was significantly higher than those of males. This suggests a potential biological difference that could make female raccoons more likely to become infected than males.
+
+![](images/Screenshot%202024-11-22%20at%2011.13.17%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.13.43%20AM.png)
+
+For the adult raccoon population
+
+-   number infected: 36/69
+
+-   prevalence: 0.522
+
+-   Confidence intervals: (0.404, 0.638)
+
+For the young adult population:
+
+-   number infected: 14/37
+
+-   prevalence: 0.378
+
+-   Confidence intervals: (0.234, 0.541)
+
+The age data shows that adults had a slightly higher prevalence than young adults. These statistics make sense as the adults will have more time to have ingested the infected eggs throughout the duration of their life.
+
+![](images/Screenshot%202024-11-22%20at%2011.13.32%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.00%20AM.png)
+
+For raccoons captured in the Northern region
+
+-   number infected: 14/49
+
+-   prevalence: 0.286
+
+-   Confidence intervals: (0.170, 0.428)
+
+For raccoons captured in the Central region
+
+-   number infected: 9/14
+
+-   prevalence: 0.643
+
+-   Confidence intervals: (0.371, 0.847)
+
+For raccoons captured in the Southern region
+
+-   number infected: 27/43
+
+-   prevalence: 0.628
+
+-   Confidence intervals: (0.477, 0.759)
+
+The data of location shows that raccoons in the central region had the highest prevalence, with the southern region not far behind. However, the northern region had a strikingly lower prevalence than the other two locations. This could potentially be the result of the pathogens ability to live in certain environmental conditions better than others.
+
+![](images/Screenshot%202024-11-22%20at%2011.14.21%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.42%20AM.png)
+
+![](images/Screenshot%202024-11-22%20at%2011.14.31%20AM.png)
+
+I then went on to compare the data using Fisher's exact test
+
+![](images/Screenshot%202024-11-22%20at%2011.15.36%20AM.png)
+
+The P value for age does not show a significant difference since the p value is not less than 0.05.
+
+![](images/Screenshot%202024-11-22%20at%2011.16.01%20AM.png)
+
+The comparison of sex has a p value of 0.0087, which is within the limit to show a significant difference.
+
+![](images/Screenshot%202024-11-22%20at%2011.16.21%20AM.png)
+
+The location information also shows a significant difference with a p value less than 0.05.
+
+Overall, we can see that there is variability within region, sex, and age of the raccoons. From this data we can infer that the roundworms are primarily found in the central and southern regions, specifically in the female populations.
